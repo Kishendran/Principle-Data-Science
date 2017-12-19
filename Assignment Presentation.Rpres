@@ -1,0 +1,55 @@
+Analysis on Global Terrorism Attacks (2011-2016)
+========================================================
+author: 
+- Vinodthini A/P Sundararaj (WQD170040) 
+- Parthiben A/L Chandrasegaran (WQD170039)
+- M.Kishendran A/L S.Magentheran (WQD170038)
+
+Date: 19 Dec 2017
+
+
+Global Terrorism Attacks
+========================================================
+
+Source:
+
+- The Global Terrorism Database (GTD) is an open-source database 
+
+- (https://www.kaggle.com/START-UMD/gtd)
+
+- Contains information of all terrorist attacks around the world
+
+- Contains 170,350 cases & 135 variables
+
+
+
+Goals:
+========================================================
+
+- To rank the nations of the world 
+  according to terrorist activity.
+  
+- Understand the patterns of terrorism throughout year(2011-2016).
+
+
+
+
+Findings:
+========================================================
+
+- No area is immune to the threat.
+
+- Terrorism can happen anywhere in the world.
+
+- Highest terrorism activity is in Iraq.
+
+Visualisation:
+===============
+
+- Barplot
+
+- Summary
+
+- Table
+
+- World Map
